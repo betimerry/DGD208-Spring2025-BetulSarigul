@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A0D0C434-8B42-4B2C-86A2-B4B7EA12C9D8}</ProjectGuid>
+    <ProjectGuid>{ADC6E7C1-D2FA-459B-97C8-C576CBECE014}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Başlangıçç</RootNamespace>
-    <AssemblyName>Başlangıçç</AssemblyName>
+    <RootNamespace>HayvanBesleme</RootNamespace>
+    <AssemblyName>HayvanBesleme</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Game.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="ItemDatabase.cs" />
+    <Compile Include="ItemType.cs" />
+    <Compile Include="PetStat.cs" />
+    <Compile Include="PetType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

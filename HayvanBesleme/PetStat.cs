@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Başlangıçç
+namespace HayvanBesleme
 {
-    internal class Program
+    internal enum PetStat
     {
-        static void Main(string[] args)
-        {
-        }
+        Hunger,
+        Sleep,
+        Fun
     }
 }

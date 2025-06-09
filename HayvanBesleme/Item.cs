@@ -1,29 +1,12 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace HayvanBesleme
+public class Item
 {
-    internal class Item
-    {
-        // Name of the item, to be displayed in the game
-        public string Name { get; set; }
-
-        // Item type, determines which situations it can be used in
-        public ItemType Type { get; set; }
-
-        // Which pets it can be used in
-        public List<PetType> CompatibleWith { get; set; }
-
-        // Which stat of the pet the item affects
-        public PetStat AffectedStat { get; set; }
-
-        // How much it affects
-        public int EffectAmount { get; set; }
-
-        // How long it takes for the item to be used (you should use async to implement this
-        public float Duration { get; set; }
-    }
+    public string Name { get; set; }
+    public ItemType Type { get; set; }
+    public List<PetType> CompatibleWith { get; set; }
+    public PetStat AffectedStat { get; set; }
+    public int EffectAmount { get; set; }
+    public float Duration { get; set; }
 }

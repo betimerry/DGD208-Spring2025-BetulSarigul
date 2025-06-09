@@ -5,3 +5,10 @@ C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\HayvanBesleme\HayvanBesleme\
 C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\HayvanBesleme\HayvanBesleme\obj\Debug\HayvanBesleme.csproj.CoreCompileInputs.cache
 C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\HayvanBesleme\HayvanBesleme\obj\Debug\HayvanBesleme.exe
 C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\HayvanBesleme\HayvanBesleme\obj\Debug\HayvanBesleme.pdb
+C:\Users\ensex\source\repos\HayvanBesleme\HayvanBesleme\obj\Debug\HayvanBesleme.csproj.AssemblyReference.cache
+C:\Users\ensex\source\repos\HayvanBesleme\HayvanBesleme\obj\Debug\HayvanBesleme.csproj.CoreCompileInputs.cache
+C:\Users\ensex\source\repos\HayvanBesleme\HayvanBesleme\obj\Debug\HayvanBesleme.exe
+C:\Users\ensex\source\repos\HayvanBesleme\HayvanBesleme\obj\Debug\HayvanBesleme.pdb
+C:\Users\ensex\source\repos\HayvanBesleme\HayvanBesleme\bin\Debug\HayvanBesleme.exe.config
+C:\Users\ensex\source\repos\HayvanBesleme\HayvanBesleme\bin\Debug\HayvanBesleme.exe
+C:\Users\ensex\source\repos\HayvanBesleme\HayvanBesleme\bin\Debug\HayvanBesleme.pdb

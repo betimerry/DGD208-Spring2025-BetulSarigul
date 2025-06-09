@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HayvanBesleme
+﻿
+public enum PetType
 {
-    internal enum PetType
-    {
-        Dog,
-        Cat,
-        Bird,
-        Fish,
-        Rabbit
-    }
+    Dog = 0,
+    Cat = 1,
+    Rabbit = 2,
+    Bird = 3,
+    Turtle = 4,
+    Fish = 5,
+    Horse = 6,
+    Deer = 7 
 }
